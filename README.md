@@ -15,7 +15,8 @@ Aviwe Koli
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"><br>
 
 ## :memo: Instructions 
-- To use the app, you can start by adding a new order by clicking the "add order" button.
+- To get started with the app, click the "?" icon on your buttom right for the app instructions
+- You can add a new order by clicking the "add order" button.
 - You can view and update orders by selecting them directly from the list. 
 - Inside the order, you can manually change information associated with an order or update its status. 
 - However, note that you can quickly change the status of an order by drag it between the three different columns with your mouse.
